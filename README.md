@@ -22,6 +22,7 @@ To include your port and mongodb url in the.env file.
 
 # 1. Introduction
 •	The present article describes the features, implementation, and usage guidelines of the Enhanced Authentication API for User Profile Management System. Users of the system can create accounts, log in, edit their profiles, and choose whether to make them public or private. Additionally, admin users can access both private and public profiles with this functionality.
+
 •	The backend of the User Profile Management System is constructed with Node.js. By adding the ability for users to designate their profiles as private or public, it improves the current authentication system. Normal users can only access public profiles, but admin users can access both private and public profiles thanks to authorization checks implemented by the system.
 
 # 2. Technologies Used
