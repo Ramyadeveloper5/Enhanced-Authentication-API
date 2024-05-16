@@ -40,34 +40,51 @@ To include your port and mongodb url in the.env file.
 
 # 3. Tools Used
 •	Visual Studio Code
+
 •	Postman
 
 # 4. API Endpoints
 •	User Registration
+
 •	User Login
+
 •	User Login Token Verify
+
 •	User logout
+
 •	Admin Registration
+
 •	Admin Login
+
 •	Admin Login Token Verify
+
 •	Admin View Both the Profile (Public and Private) 
+
 •	Get User Profile
+
 •	Edit User profile
+
 •	Image Upload
+
 •	Normal User View only Public User
 
 # 5. Authentication and Authorization
 •	Because of their email address and password, users can register and log in. 
+
 •	After successful authentication, JWT tokens are created and used for incoming requests. 
+
 •	Normal users can only access public profiles; authorization checks are used to grant admin users access to both public and private profiles.
 
 # 6. Public and Private Profiles
 •	Users have the option of keeping their profiles private or public. 
+
 •	All users have access to public profiles. 
+
 •	Only authorized users (admin users and the profile owner) can access private profiles.
 
 # 7. Handling Errors and Validation
 •	The system as a whole implements proper error handling to deliver informative error messages. 
+
 •	Validating input is done to make sure the data is secure and preserved.
 
 # 8. Conclusion
