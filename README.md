@@ -27,10 +27,15 @@ To include your port and mongodb url in the.env file.
 
 # 2. Technologies Used
 •	Node.js
+
 •	Express.js
+
 •	MongoDB 
+
 •	bcrypt for password hashing
+
 •	JSON Web Tokens (JWT) for authentication
+
 •	API Testing – Postman
 
 # 3. Tools Used
