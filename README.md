@@ -1,4 +1,4 @@
-# Enhanced-Authentication-API
+# Enhanced-Authentication-API.
 User Management System for Enhanced Authentication API
 
 # Procedure
